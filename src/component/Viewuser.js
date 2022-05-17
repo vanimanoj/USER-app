@@ -245,7 +245,7 @@ const Viewuser = () => {
                 <div class="card" >
   <img src="" class="card-img-top" alt="..."/>
   <div class="card-body">
-    <h5 class="card-title">ID:{value.title}</h5>
+    <h5 class="card-title">id:{value.title}</h5>
     <p class="card-text">Name:{value.name}</p>
     <p class="card-text">Email:{value.email}</p>
     
